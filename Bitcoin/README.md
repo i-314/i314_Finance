@@ -1,3 +1,11 @@
+REQUIREMENTS:
+
+- You need to have R installed 
+- You need RBitcoin package installed:
+
+	https://cran.r-project.org/web/packages/Rbitcoin/index.html
+	
+
 USAGE:
 
 - Go to src directory
